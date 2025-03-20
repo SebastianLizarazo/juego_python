@@ -16,5 +16,6 @@ Los métodos funcionales creados fueron: **process_events()**, **run_controller(
 ## Requisitos
 - Python 3.x
 - [Pygame](https://www.pygame.org/)  
+- Randmon
   
 
