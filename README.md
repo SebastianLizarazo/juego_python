@@ -1,7 +1,9 @@
 # Juego de Disparos con Pygame
+
 Proyecto hecho por Sebastian Lizarazo
 
 # Descripción y funcionalidad
+
 A través del archivo **game.py** se encuentra el código que ejecuta el videojuego, se establecieron tres clases:
 **Player()**, **Enemy()**, **Laser()** y **Game()** estableciendo sus respectivos atributos y métodos. Se implementó la librería **PyGame** junto con **Random** para crear la funcionalidad del juego.
 
@@ -14,8 +16,9 @@ Para iniciar una partida se debe dar clic a cualquier tecla, esto hará que se d
 Los métodos funcionales creados fueron: **process_events()**, **run_controller()** y **display_frame()**, todos parte de la clase Game que se ocupan de manejar los eventos durante la ejecución del programa, la lógica manejada por el programa y, el dibujo y actualización de la ventana, cada uno respectivamente.
 
 ## Requisitos
+
 - Python 3.x
-- [Pygame](https://www.pygame.org/)  
-- Randmon
-  
+- [Pygame](https://www.pygame.org/)
+- [Random] (https://docs.python.org/es/3.10/library/random.html)
+
 
