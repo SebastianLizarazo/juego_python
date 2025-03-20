@@ -19,6 +19,6 @@ Los métodos funcionales creados fueron: **process_events()**, **run_controller(
 
 - Python 3.x
 - [Pygame](https://www.pygame.org/)
-- [Random] (https://docs.python.org/es/3.10/library/random.html)
+- [Random](https://docs.python.org/es/3.10/library/random.html)
 
 
